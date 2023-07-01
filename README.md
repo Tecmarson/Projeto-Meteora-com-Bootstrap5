@@ -1,6 +1,6 @@
 # Projeto-Meteora-com-Bootstrap5
 
-> O projeto tem fins didáticos, para a prática e aperfeiçoamento de construção de páginas web usando Bootstrap5
+> O projeto tem fins didáticos, para a prática e aperfeiçoamento da construção de páginas web usando Bootstrap5
 
 ## Imagens do projeto
 
